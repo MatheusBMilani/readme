@@ -1,10 +1,11 @@
 ## Que bom te ver aqui! 🌎
-
+```
 Eu me chamo Matheus de Brito Milani, Mat, atualmente perseguindo meu bacharelado em Ciências da Computação na [Universidade Anhembi Morumbi](https://portal.anhembi.br).
 Além disto estou cursando o BootCamp da [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/), com o intuito de me tornar um desenvolvedor Java Full Stack! Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
-
+```
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusMilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/matheus-milani-287b781a4/)
 [![Gmail Badge](https://img.shields.io/badge/-matheusdebritomilani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](matheusdebritomilani@gmail.com)
+|--|--|
 
 ## 💻 Areas de conhecimento
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -16,10 +17,9 @@ Além disto estou cursando o BootCamp da [Generation Brasil](https://brazil.gene
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+|--|--|
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBMilani&theme=midnight-purple&hide_langs_below=1"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBMilani&show_icons=true&theme=midnight-purple&line_height=27" alt="Mat github stats" />
 |--|--|
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBMilani&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBMilani&hide=TeX&layout=compact)
+
