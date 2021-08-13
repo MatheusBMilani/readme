@@ -1,4 +1,4 @@
-## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/MatheusBMilani/MatheusBMilani/master/wave.gif" width="30px">
+## Que bom te ver aqui! 🌎
 
 Eu me chamo Matheus de Brito Milani, Mat, atualmente perseguindo meu bacharelado em Ciências da Computação na [Universidade Anhembi Morumbi](https://portal.anhembi.br).
 Além disto estou cursando o BootCamp da [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/), com o intuito de me tornar um desenvolvedor Java Full Stack! Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
