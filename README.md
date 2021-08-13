@@ -1,7 +1,12 @@
-# readme
+## Que bom te ver aqui! <img src="https://raw.githubusercontent.com/MatheusBMilani/MatheusBMilani/master/wave.gif" width="30px">
+
+Eu me chamo Matheus de Brito Milani, Mat, atualmente perseguindo meu bacharelado em Ciências da Computação na [Universidade Anhembi Morumbi](https://portal.anhembi.br).
+Além disto estou cursando o BootCamp da [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/), com o intuito de me tornar um desenvolvedor Java Full Stack! Estou sempre aberto a oportunidades e colaborações em projetos. Saiba mais sobre minha pessoa e sinta se a vontade para se conectar as minhas redes aqui: 
+
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusMilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/matheus-milani-287b781a4/)
 [![Gmail Badge](https://img.shields.io/badge/-matheusdebritomilani@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](matheusdebritomilani@gmail.com)
 
+## 💻 Areas de conhecimento
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
